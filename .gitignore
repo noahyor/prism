@@ -1,6 +1,11 @@
 debug/
 target/
+Cargo.lock
 
 **/*.rs.bk
 
 *.pdb
+
+# Program output
+debug.txt
+out.ppm
